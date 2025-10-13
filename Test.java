@@ -1,4 +1,4 @@
-package BaiTap_Tuan5;
+package BaiTap_Tuan6;
 
 public class Test 
 {
